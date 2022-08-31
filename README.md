@@ -14,10 +14,8 @@
 
 Upgrade 
 <br/>
-
 Us 
 <br/>
-
 Captan marvel 
 <br/>
 Ayla: The Daughter of War
@@ -494,6 +492,9 @@ Bridgerton
 <br/>
 The Big Bang Theory
 <br/>
+Squid game (نیازی به توضیح نی همه جا پر شده ازش ولی من خوشم نیومد تو همین سبک ی ژاپنی هم هست اون بهتر بود)                         
+<br/>
+
 
 <br/>
 
@@ -504,7 +505,8 @@ The Big Bang Theory
 <br/>
 
 
-کره ای<br/>
+**کره ای**#
+<br/>
 
 <br/>
 Nokdu Flower
@@ -522,3 +524,8 @@ Flower Crew Joseon
 <br/>
 Guardian: The Lonely and Great God
 <br/>
+
+**2022**
+<br/> 
+all of us are dead
+
