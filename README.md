@@ -1,10 +1,9 @@
 # List-of-Movies-I-ve-Seen
 
 
-[![Supported Exchanges](https://img.shields.io/badge/exchanges-3-blue.svg)]
 ![Supported Exchanges](https://img.shields.io/badge/exchanges-3-blue.svg)
 ![Supported Exchanges](https://img.shields.io/badge/License-MIT-yellow.svg)
-
+ [![PyPI](https://img.shields.io/pypi/v/ccxt.svg)](https://pypi.python.org/pypi/ccxt) 
 
 
 
