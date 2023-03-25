@@ -3,6 +3,8 @@
 
 
 ![Supported Exchanges](https://img.shields.io/badge/exchanges-3-blue.svg)
+![Supported Exchanges](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 
 
