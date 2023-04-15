@@ -1780,7 +1780,7 @@ Pirates of the Caribbean(all) ذ. مثل همیشه که میگم تجربه ی�
 <br/>
 <br/>
 
-# name
+# Back to the Future
 
 <br/>
 <br/>
@@ -1799,6 +1799,96 @@ Pirates of the Caribbean(all) ذ. مثل همیشه که میگم تجربه ی�
 <br/>
 <br/>
 
+# Avatar The Way of Water
+
+<br/>
+<br/>
+توضیحات فیلم:
+<br/>
+<br/>
+<br/>
+<br/>
+ستارگان:
+<br/>
+<br/>
+امتیاز من: 1/10
+<br/>
+<br/>
+توضیحات من: 
+<br/>
+<br/>
+# The Unbearable Weight of Massive Talent 2022  
+
+<br/>
+<br/>
+توضیحات فیلم:
+<br/>
+<br/>
+<br/>
+<br/>
+ستارگان:
+<br/>
+<br/>
+امتیاز من: 1/10
+<br/>
+<br/>
+توضیحات من: 
+<br/>
+<br/>
+# Ankaboot
+
+<br/>
+<br/>
+توضیحات فیلم:
+<br/>
+<br/>
+<br/>
+<br/>
+ستارگان:
+<br/>
+<br/>
+امتیاز من: 1/10
+<br/>
+<br/>
+توضیحات من: 
+<br/>
+<br/>
+# Inside 2023 
+
+<br/>
+<br/>
+توضیحات فیلم:
+<br/>
+<br/>
+<br/>
+<br/>
+ستارگان:
+<br/>
+<br/>
+امتیاز من: 1/10
+<br/>
+<br/>
+توضیحات من: 
+<br/>
+<br/>
+# Leilas Brothers 2022
+
+<br/>
+<br/>
+توضیحات فیلم:
+<br/>
+<br/>
+<br/>
+<br/>
+ستارگان:
+<br/>
+<br/>
+امتیاز من: 1/10
+<br/>
+<br/>
+توضیحات من: 
+<br/>
+<br/>
 
 
 
