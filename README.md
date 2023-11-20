@@ -2953,8 +2953,15 @@ Pirates of the Caribbean(all) ذ. مثل همیشه که میگم تجربه ی�
 توضیحات من: زیاد جالب نبود تو این ژانر 
 <br/>
 <br/>
+<br/>
+<br/>
+
 
 # Khanzab 2023
+
+<br/>
+<br/>
+
 
 <br/>
 <br/>
@@ -2974,8 +2981,17 @@ Pirates of the Caribbean(all) ذ. مثل همیشه که میگم تجربه ی�
 توضیحات من: فیلم های ترسناک اسلامی واقعا ترسناک تر هستن یکی از دلایلش همین مسلمان بودنمون هست . فرض کن به ما کفته شده بگی بس مالله شیطان میره ولی از این خبرا نیست . به شیطانی که سر نماز ، نماز کذار رو اذیت میکنه میگن خنزب
 <br/>
 <br/>
+<br/>
+<br/>
+
+
 
 # Sound of Freedom 2023
+
+
+<br/>
+<br/>
+
 
 <br/>
 <br/>
@@ -2994,7 +3010,17 @@ Pirates of the Caribbean(all) ذ. مثل همیشه که میگم تجربه ی�
 <br/>
 <br/>
 
+<br/>
+<br/>
+
+
+
 # Oppenheimer 2023
+
+
+<br/>
+<br/>
+
 
 <br/>
 <br/>
@@ -3014,7 +3040,17 @@ Pirates of the Caribbean(all) ذ. مثل همیشه که میگم تجربه ی�
 <br/>
 <br/>
 
+<br/>
+<br/>
+
+
 # The Killer 2023
+
+
+
+<br/>
+<br/>
+
 
 <br/>
 <br/>
@@ -3034,7 +3070,12 @@ Pirates of the Caribbean(all) ذ. مثل همیشه که میگم تجربه ی�
 <br/>
 <br/>
 
+
+
 # The Creator 2023
+
+
+
 
 <br/>
 <br/>
@@ -3054,7 +3095,11 @@ Pirates of the Caribbean(all) ذ. مثل همیشه که میگم تجربه ی�
 <br/>
 <br/>
 
+
+
 # name
+
+
 
 <br/>
 <br/>
@@ -3073,7 +3118,11 @@ Pirates of the Caribbean(all) ذ. مثل همیشه که میگم تجربه ی�
 <br/>
 <br/>
 
+
+
 # name
+
+
 
 <br/>
 <br/>
@@ -3092,7 +3141,11 @@ Pirates of the Caribbean(all) ذ. مثل همیشه که میگم تجربه ی�
 <br/>
 <br/>
 
+
+
 # name
+
+
 
 <br/>
 <br/>
